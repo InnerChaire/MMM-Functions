@@ -1,0 +1,16 @@
+.functionsFeed {
+    font-size: 28px;
+    color: white;
+    text-align: center;
+}
+
+.func-title {
+    font-weight: bold;
+    font-size: 32px;
+    margin-bottom: 8px;
+}
+
+.func-desc {
+    font-size: 22px;
+    opacity: 0.8;
+}

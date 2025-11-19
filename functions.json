@@ -1,0 +1,19 @@
+{
+  "functions": [
+    {
+      "id": "open_weather",
+      "title": "Mostrar clima",
+      "description": "Abre el módulo del clima"
+    },
+    {
+      "id": "open_calendar",
+      "title": "Mostrar calendario",
+      "description": "Abre el calendario"
+    },
+    {
+      "id": "turn_off_screen",
+      "title": "Apagar pantalla",
+      "description": "Desactiva el display"
+    }
+  ]
+}
