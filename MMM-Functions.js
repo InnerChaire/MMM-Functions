@@ -49,7 +49,7 @@ Module.register("MMM-Functions", {
         title.innerHTML = func.title;
 
         const desc = document.createElement("div");
-        desc.className = "func-desc";
+        desc.className = "func-desc light small dimmed";
         desc.innerHTML = func.description;
 
         wrapper.appendChild(title);
