@@ -45,11 +45,11 @@ Module.register("MMM-Functions", {
         const func = this.functions[this.currentIndex];
 
         const title = document.createElement("div");
-        title.className = "func-title bright medium light";
+        title.className = "func-title bright high light";
         title.innerHTML = func.title;
 
         const desc = document.createElement("div");
-        desc.className = "func-desc light small dimmed";
+        desc.className = "func-desc light medium dimmed";
         desc.innerHTML = func.description;
 
         wrapper.appendChild(title);
