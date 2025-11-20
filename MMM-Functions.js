@@ -45,7 +45,7 @@ Module.register("MMM-FunctionsFeed", {
         const func = this.functions[this.currentIndex];
 
         const title = document.createElement("div");
-        title.className = "func-title";
+        title.className = "func-title bright medium light";
         title.innerHTML = func.title;
 
         const desc = document.createElement("div");
