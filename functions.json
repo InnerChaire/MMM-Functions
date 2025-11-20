@@ -1,19 +1,30 @@
 {
   "functions": [
     {
-      "id": "open_weather",
-      "title": "Mostrar clima",
-      "description": "Abre el módulo del clima"
+      "id": "epi_news_1",
+      "title": "Virus Coxsackie en escuelas de Chiapas",
+      "description": "Confirman presencia del virus Coxsackie en 11 escuelas y tres municipios de Chiapas. Se invita a la población a no alarmarse, evitar automedicación y acudir a los centros de salud en caso de síntomas."
     },
     {
-      "id": "open_calendar",
-      "title": "Mostrar calendario",
-      "description": "Abre el calendario"
+      "id": "epi_news_2",
+      "title": "México prepara estrategia sanitaria por Mundial 2026",
+      "description": "Existe preocupación ante un posible aumento de casos de sarampión y tos ferina; se prepara México para la Copa Mundial de la FIFA 2026."
     },
     {
-      "id": "turn_off_screen",
-      "title": "Apagar pantalla",
-      "description": "Desactiva el display"
+      "id": "epi_news_3",
+      "title": "Casi 3 mil casos de sarampión en México",
+      "description": "El titular de Salud, David Kershenobich, señala la necesidad de mantener vigilancia epidemiológica rigurosa; se reportan casi 3 mil casos en el país."
+    },
+    {
+      "id": "epi_news_4",
+      "title": "Alerta por aumento de sarampión por casos importados",
+      "description": "El CONAVE lanzó una alerta epidemiológica ante el incremento de casos de sarampión: 416 probables, de los cuales se han confirmado 22 por laboratorio (2 importados y 22 asociados a dicha importación)."
+    },
+    {
+      "id": "epi_news_5",
+      "title": "Viruela del mono en México",
+      "description": "México suma 93 casos de viruela del mono en una semana; las muertes permanecen en cuatro. La enfermedad dura en promedio 21 días y se transmite por contacto directo con secreciones de personas enfermas."
     }
   ]
 }
+
