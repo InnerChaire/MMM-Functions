@@ -45,7 +45,7 @@ Module.register("MMM-Functions", {
         const func = this.functions[this.currentIndex];
 
         const title = document.createElement("div");
-        title.className = "func-title bright high light";
+        title.className = "func-title bright large light";
         title.innerHTML = func.title;
 
         const desc = document.createElement("div");
