@@ -1,4 +1,4 @@
-Module.register("MMM-FunctionsFeed", {
+Module.register("MMM-Functions", {
     defaults: {
         jsonFile: "functions.json",
         rotateInterval: 4000,
