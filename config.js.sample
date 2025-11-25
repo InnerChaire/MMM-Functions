@@ -116,7 +116,7 @@ let config = {
                                 mode: "slides",
                                 slides: {
                                         main: [ {name:'clock', position:'top_left'}, {name:'calendar', position:'top_left'}, {name:'MMM-IronManGIF', position:"middle_center", carouselId:"1", config:{style:1, maxwidth:"50%", rotate:false}} ,{name:'MMM-Functions', position:'lower_third', config:{rotateInterval:10000}} ],
-                                        "Slide 2": [ {name:'clock', position:'top_left'}, {name:'calendar', position:'top_left'}, {name:'weatherforecast', position: "top_right"}, {name:'MMM-IronManGIF', position:'middle_center', carouselId:"2", config:{style:2,maxWidth:"50%", rotate:false}}],
+                                        "Slide 2": [ {name:'clock', position:'top_left'}, {name:'calendar', position:'top_left'}, {name:'', position: "top_right"}, {name:'MMM-IronManGIF', position:'middle_center', carouselId:"2", config:{style:2,maxWidth:"50%", rotate:false}}],
                                         "Slide 3": [ {name:'calendar', position:'top_left'},  {name:'clock', position:'top_left'}, {name:'MMM-IronManGIF', position:'middle_center', carouselId:"3",config:{style:6, maxWidth:"100%", rotate:false}},{name:'MMM-Functions', position:'bottom_center', config:{rotateInterval:10000}} ]
                                 }
                         }
